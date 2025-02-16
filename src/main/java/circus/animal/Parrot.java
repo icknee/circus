@@ -16,7 +16,7 @@ public class Parrot extends Bird {
         return 20;
     }
 
-    public Parrot(String name) {
+    public Parrot() {
         this.name = name;
     }
 }

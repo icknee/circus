@@ -20,7 +20,7 @@ public class Duck extends Bird {
         return 10;
     }
 
-    public Duck(String name) {
+    public Duck() {
         this.name = name;
     }
 }
